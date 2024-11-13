@@ -1,5 +1,5 @@
 class student:
-    def_init_(self,grade,name):
+    def__init__(self,grade,name):
         self.grade=grade
         self.name=name
 s1= student("10","Faith")
